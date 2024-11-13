@@ -13,12 +13,12 @@ body {
 }
 
 ul {
-    padding-left: 2rem;
+    padding-left: 2rem; 
 }
 
-ol {
+/* ol {
     padding-left: 2rem;
-}
+} */
 
 /* .like {
     color: green;
@@ -40,4 +40,5 @@ h3 {
 }
 img {
     border-radius: 1 rem;
-} */
+} */ 
+ 
