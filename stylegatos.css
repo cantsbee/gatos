@@ -1,0 +1,43 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* background-color: lightcyan; */
+}
+
+/* main{
+    color: black;
+    padding-top: 1rem;
+    padding-left: 1 rem; */
+
+}
+
+ul {
+    padding-left: 2rem;
+}
+
+ol {
+    padding-left: 2rem;
+}
+
+/* .like {
+    color: green;
+
+}
+.like2 {
+    color: crimson;
+}
+.thunder {
+    color: purple;
+}
+a {
+    color: plum;
+    font-size: italic;
+}
+
+h3 {
+    font-style: italic;
+}
+img {
+    border-radius: 1 rem;
+} */
